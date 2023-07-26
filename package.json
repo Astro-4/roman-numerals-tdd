@@ -1,5 +1,16 @@
 {
   "dependencies": {
     "jest": "^29.6.1"
-  }
+  },
+  "name": "roman-numerals-tdd",
+  "version": "1.0.0",
+  "main": "roman-numerals.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
