@@ -22,5 +22,6 @@ function romanNumConverter(num) {
       num -= value;
     }
   }
+  return result;
 }
 module.exports = romanNumConverter;
